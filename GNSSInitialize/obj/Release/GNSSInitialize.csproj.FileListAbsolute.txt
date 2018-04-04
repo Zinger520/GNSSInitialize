@@ -1,0 +1,13 @@
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\bin\Release\GNSSInitialize.exe.config
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\bin\Release\GNSSInitialize.exe.manifest
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\bin\Release\GNSSInitialize.application
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\bin\Release\GNSSInitialize.exe
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\bin\Release\GNSSInitialize.pdb
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Release\GNSSInitialize.mGNSSInitializeForm.resources
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Release\GNSSInitialize.Properties.Resources.resources
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Release\GNSSInitialize.csproj.GenerateResource.Cache
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Release\GNSSInitialize.TrustInfo.xml
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Release\GNSSInitialize.exe.manifest
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Release\GNSSInitialize.application
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Release\GNSSInitialize.exe
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Release\GNSSInitialize.pdb

@@ -1,0 +1,68 @@
+c:\users\ferran\documents\visual studio 2015\Projects\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.exe
+c:\users\ferran\documents\visual studio 2015\Projects\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.pdb
+c:\users\ferran\documents\visual studio 2015\Projects\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.mGNSSInitializeForm.resources
+c:\users\ferran\documents\visual studio 2015\Projects\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.Properties.Resources.resources
+c:\users\ferran\documents\visual studio 2015\Projects\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.csproj.GenerateResource.Cache
+c:\users\ferran\documents\visual studio 2015\Projects\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.exe
+c:\users\ferran\documents\visual studio 2015\Projects\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.pdb
+c:\users\ferran\documents\visual studio 2015\Projects\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.csprojResolveAssemblyReference.cache
+D:\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.exe
+D:\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.pdb
+D:\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.exe
+D:\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.pdb
+D:\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.csprojResolveAssemblyReference.cache
+D:\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.mGNSSInitializeForm.resources
+D:\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.Properties.Resources.resources
+D:\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.csproj.GenerateResource.Cache
+D:\Ferran_WorkSpace\Project\2015\Researches\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.exe
+D:\Ferran_WorkSpace\Project\2015\Researches\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.pdb
+D:\Ferran_WorkSpace\Project\2015\Researches\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.exe
+D:\Ferran_WorkSpace\Project\2015\Researches\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.pdb
+D:\Ferran_WorkSpace\Project\2015\Researches\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.csprojResolveAssemblyReference.cache
+D:\Ferran_WorkSpace\Project\2015\Researches\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.mGNSSInitializeForm.resources
+D:\Ferran_WorkSpace\Project\2015\Researches\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.Properties.Resources.resources
+D:\Ferran_WorkSpace\Project\2015\Researches\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.csproj.GenerateResource.Cache
+D:\Ferran_WorkSpace\Project\2016\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.exe
+D:\Ferran_WorkSpace\Project\2016\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.pdb
+D:\Ferran_WorkSpace\Project\2016\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.exe
+D:\Ferran_WorkSpace\Project\2016\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.pdb
+D:\Ferran_WorkSpace\Project\2016\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.csprojResolveAssemblyReference.cache
+D:\Ferran_WorkSpace\Project\2016\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.mGNSSInitializeForm.resources
+D:\Ferran_WorkSpace\Project\2016\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.Properties.Resources.resources
+D:\Ferran_WorkSpace\Project\2016\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.csproj.GenerateResource.Cache
+D:\Ferran_WorkSpace\Project\2016\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.exe.config
+D:\Ferran_WorkSpace\Project\2016\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.exe.manifest
+D:\Ferran_WorkSpace\Project\2016\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.application
+D:\Ferran_WorkSpace\Project\2016\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.TrustInfo.xml
+D:\Ferran_WorkSpace\Project\2016\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.exe.manifest
+D:\Ferran_WorkSpace\Project\2016\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.application
+G:\Ferran_WorkSpace\Software\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.exe.config
+G:\Ferran_WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.exe
+G:\Ferran_WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.pdb
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.exe.config
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.exe
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.pdb
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.mGNSSInitializeForm.resources
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.Properties.Resources.resources
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.csproj.GenerateResource.Cache
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.TrustInfo.xml
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.exe.manifest
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.application
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.exe
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.pdb
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.exe.manifest
+G:\WorkSpace\Software\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.application
+C:\Users\赵紫良\Documents\GitHub\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.exe.config
+C:\Users\赵紫良\Documents\GitHub\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.exe
+C:\Users\赵紫良\Documents\GitHub\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.pdb
+C:\Users\赵紫良\Documents\GitHub\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.exe.manifest
+C:\Users\赵紫良\Documents\GitHub\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.application
+C:\Users\赵紫良\Documents\GitHub\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.exe
+C:\Users\赵紫良\Documents\GitHub\GNSSInitialize\GNSSInitialize\bin\Debug\GNSSInitialize.pdb
+C:\Users\赵紫良\Documents\GitHub\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.csprojResolveAssemblyReference.cache
+C:\Users\赵紫良\Documents\GitHub\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.mGNSSInitializeForm.resources
+C:\Users\赵紫良\Documents\GitHub\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.Properties.Resources.resources
+C:\Users\赵紫良\Documents\GitHub\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.csproj.GenerateResource.Cache
+C:\Users\赵紫良\Documents\GitHub\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.TrustInfo.xml
+C:\Users\赵紫良\Documents\GitHub\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.exe.manifest
+C:\Users\赵紫良\Documents\GitHub\GNSSInitialize\GNSSInitialize\obj\Debug\GNSSInitialize.application
